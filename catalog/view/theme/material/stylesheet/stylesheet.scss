@@ -1,0 +1,76 @@
+// four theme color
+
+$color_blue : #22264b;
+$color_pink : #b56969;
+$color_yellow : #e6cf8b;
+$color_sky : #e8edf3;
+
+body {
+	font-weight: 400;
+	font-size: 12px;
+	width: 100%;
+}
+.fa {
+	font-size: 14px;
+}
+h{
+	&1,&2,&3,&4,&5,&6{
+		color: $color_blue !important;
+	}
+	&1{
+		font-size: 33px !important;
+	}
+	&2{
+		font-size: 27px !important;
+	}
+	&3{
+		font-size: 21px !important;
+	}
+	&4{
+		font-size: 15px !important;
+	}
+	&5{
+		font-size: 12px !important;
+	}
+	&6{
+		font-size: 10px !important;
+	}
+}
+
+a{
+	color: $color_blue !important;
+	&:hover{
+		color: $color_pink !important;
+		text-decoration: none;
+	}
+}
+label {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+// navigation
+nav{
+	background-color: $color_blue !important;
+	a{
+		color: $color_sky !important;
+	}
+}
+
+.dropdown-content{
+	background-color: white !important;
+	a{
+		color: $color_blue !important;
+		&:hover{
+			color: white !important;
+		}
+	}
+	li:hover{
+		background-color: $color_pink !important;
+	}
+}
+
+// for tooltip background
+.backdrop{
+   background-color: $color_pink !important;
+ }

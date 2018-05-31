@@ -1540,3 +1540,203 @@
 2018-05-30 18:01:39 - PHP Warning:  mkdir(): No such file or directory in /var/www/html/nazish/opencart_store/admin/controller/common/security.php on line 102
 2018-05-30 18:01:39 - PHP Warning:  copy(/var/www/html/nazish/opencart_store/storage/vendor/klarna/kco_rest/src/Klarna/Rest/Transport/Exception/ConnectorException.php): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/admin/controller/common/security.php on line 106
 2018-05-30 18:01:39 - PHP Warning:  copy(/var/www/html/nazish/opencart_store/storage/vendor/symfony/validator/Mapping/Loader/schema/dic/constraint-mapping/constraint-mapping-1.0.xsd): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/admin/controller/common/security.php on line 106
+2018-05-31 5:57:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:02 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:02 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:02 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:02 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:02 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:02 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:02 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:02 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:02 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:02 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:02 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:02 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:02 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:02 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:02 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:02 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:02 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:02 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:02 - PHP Warning:  Division by zero in /var/www/html/nazish/opencart_store/catalog/controller/product/category.php on line 332
+2018-05-31 5:57:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/html/nazish/opencart_store/system/library/image.php on line 169
+2018-05-31 5:57:14 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 177
+2018-05-31 5:57:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 180
+2018-05-31 5:57:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/image.php on line 182
+2018-05-31 5:57:14 - PHP Warning:  Division by zero in /var/www/html/nazish/opencart_store/catalog/controller/product/category.php on line 332
+2018-05-31 6:57:28 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527753448): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 6:57:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 6:57:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 6:57:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 6:57:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 6:57:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 6:57:28 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527753448): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 6:57:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 6:57:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 6:57:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 6:57:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 6:57:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 7:54:22 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527756862): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 7:54:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 7:54:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 7:54:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 7:54:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 7:54:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 7:54:22 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527756862): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 7:54:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 7:54:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 7:54:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 7:54:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 7:54:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 7:58:12 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757092): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 7:58:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 7:58:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 7:58:12 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 7:58:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 7:58:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 7:58:12 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757092): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 7:58:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 7:58:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 7:58:12 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 7:58:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 7:58:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 7:58:54 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757134): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 7:58:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 7:58:54 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 7:58:54 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 7:58:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 7:58:54 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 7:58:54 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757134): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 7:58:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 7:58:54 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 7:58:54 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 7:58:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 7:58:54 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:00:44 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757244): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:00:44 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:00:44 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:00:44 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:00:44 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:00:44 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:00:44 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757244): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:00:44 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:00:44 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:00:44 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:00:44 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:00:44 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:28 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757348): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:28 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757348): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:28 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757348): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:28 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757348): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:33 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757353): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:33 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757353): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:33 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757353): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:02:33 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757353): failed to open stream: No such file or directory in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:02:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:02:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:02:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:02:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:04 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757384): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:04 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:04 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:04 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:04 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757384): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:04 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:04 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:04 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:04 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757384): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:04 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:04 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:04 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:04 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757384): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:04 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:04 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:04 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:04 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:15 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.store.1527757395): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:45 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.catalog.language.1527757425): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
+2018-05-31 8:03:45 - PHP Warning:  fopen(/var/www/html/nazish/opencart_store/storage/cache/cache.currency.1527757425): failed to open stream: Permission denied in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 49
+2018-05-31 8:03:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 51
+2018-05-31 8:03:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 53
+2018-05-31 8:03:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 55
+2018-05-31 8:03:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 57
+2018-05-31 8:03:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/nazish/opencart_store/system/library/cache/file.php on line 59
